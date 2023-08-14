@@ -1,0 +1,10 @@
+port_name_for_geo_code_with_word_port,Latitude,Longitude,port_name_for_geo_code,Latitude_area,Longitude_area,Port_name,City,State,teus_2022,display_names
+"Los Angeles, California Port",33.7395459,-118.2599686,"Los Angeles, California",34.0522342,-118.2436849,Los Angeles,Los Angeles,California,9911159,"Los Angeles, CA"
+"Long Beach, California Port",33.754185,-118.216458,"Long Beach, California",33.7700504,-118.1937395,Long Beach,Long Beach,California,9133662,"Long Beach, CA"
+"Savannah, Georgia Port",32.1284294,-81.1514587,"Savannah, Georgia",32.0808989,-81.091203,Savannah,Savannah,Georgia,5892137,"Savannah, GA"
+"Charlseton, South Carolina Port",32.7764749,-79.9310512,"Charlseton, South Carolina",32.7764749,-79.9310512,Charlseton,Charlseton,South Carolina,2702318,"Charlseton, SC"
+"Northwest Seaport Alliance, Seatte and Tacoma Port",47.6062095,-122.3320708,Northwest Seaport Alliance,47.6062095,-122.3320708,Northwest Seaport Alliance,Seattle and Tacoma,Washington,2649548,Northwest Seaport Alliance
+"Oakland, California Port",37.8043514,-122.2711639,"Oakland, California",37.8043514,-122.2711639,Oakland,Oakland,California,2337129,"Oakland, CA"
+"Houston, Texas Port",29.7604267,-95.3698028,"Houston, Texas",29.7604267,-95.3698028,Houston,Houston,Texas,3970900,"Houston, TX"
+"The Port of Virginia, Virginia",36.918554,-76.3001299,"The Port of Virginia, Virginia",36.918554,-76.3001299,The Port of Virginia,,Virginia,3703233,"The Port of Virginia, VA"
+Port of New York and New Jersey,40.0583238,-74.4056612,Port of New York and New Jersey,40.0583238,-74.4056612,Port of New York and New Jersey,,New York,9484841,Port of NY and NJ
