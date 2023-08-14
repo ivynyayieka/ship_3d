@@ -24,7 +24,7 @@ Per instructions, I made the charts in Microsoft Excel. Plotting revealed increa
 I mapped the major ports highlighted by the [Department of Transportation](https://explore.dot.gov/views/MonthlyContainerPortTEUs/TEUs?%3Aembed=y&%3AisGuestRedirectFromVizportal=y) using QGIS. <br/>
 I geocoded the data using Google Spreadsheets Extension Geocode by Awesome Table
 
-##### Top US ports by TEU capacity
+#### Top US ports by TEU capacity
 ![gross output](/us_ports.png)
 
 #### Tech
