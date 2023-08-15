@@ -7,11 +7,11 @@ This is an analysis in which I explore trends in the shipbuilding and repair ind
 Much of the data was collected by copy-pasting since it was not too much in volume <br/>
 
 Sources: 
-Gross output data from [U.S. Bureau of Economic Analysis (BEA)](https://apps.bea.gov/iTable/?reqid=150&step=2&isuri=1&categories=ugdpxind#eyJhcHBpZCI6MTUwLCJzdGVwcyI6WzEsMiwzXSwiZGF0YSI6W1siY2F0ZWdvcmllcyIsIkdkcHhJbmQiXSxbIlRhYmxlX0xpc3QiLCIyMzciXV19)
-TEU data from [Department of Transportation](https://explore.dot.gov/views/MonthlyContainerPortTEUs/TEUs?%3Aembed=y&%3AisGuestRedirectFromVizportal=y)
-Labour data from [U.S. Bureau of Labor Statistics](https://www.bls.gov/oes/current/naics4_336600.htm)
-US Navy ships volume data from [US Navy](https://www.secnav.navy.mil/fmc/fmb/Documents/24pres/Budget_Highlights_Book.pdf)
-GIS data from [Natural Earth](https://www.naturalearthdata.com/downloads/)
+Gross output data from [U.S. Bureau of Economic Analysis (BEA)](https://apps.bea.gov/iTable/?reqid=150&step=2&isuri=1&categories=ugdpxind#eyJhcHBpZCI6MTUwLCJzdGVwcyI6WzEsMiwzXSwiZGF0YSI6W1siY2F0ZWdvcmllcyIsIkdkcHhJbmQiXSxbIlRhYmxlX0xpc3QiLCIyMzciXV19)<br/>
+TEU data from [Department of Transportation](https://explore.dot.gov/views/MonthlyContainerPortTEUs/TEUs?%3Aembed=y&%3AisGuestRedirectFromVizportal=y)<br/>
+Labour data from [U.S. Bureau of Labor Statistics](https://www.bls.gov/oes/current/naics4_336600.htm)<br/>
+US Navy ships volume data from [US Navy](https://www.secnav.navy.mil/fmc/fmb/Documents/24pres/Budget_Highlights_Book.pdf)<br/>
+GIS data from [Natural Earth](https://www.naturalearthdata.com/downloads/)<br/>
 
 #### Charting the data
 
