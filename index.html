@@ -20,6 +20,10 @@
         .gray-background {
             background-color: #f5f5f5;
         }
+        .notification ul {
+            list-style-type: disc !important;
+        }
+
     </style>
 
 </head>
@@ -31,10 +35,10 @@
             <!-- <header> -->
                 <h1 class="title notification is-dark">3D Printing Will Reduce Cost and Time Necessary for Ship Repair but Impact on Labor Force is Complex</h1>
             <!-- </header> -->
-            <p class="subtitle"><a href="https://github.com/ivynyayieka/ship_3d#readme">Learn about the methodology here</a>:<em> Instructions for this story required Excel Charts; other tools could have been more visually appealing</em></p>
+            <p><a href="https://github.com/ivynyayieka/ship_3d#readme">Learn about the methodology here</a>:<em> Instructions for this story required Excel Charts; other tools could have been more visually appealing</em></p>
             
-            <div class="notification is-dark">
-                <h2 class="subtitle">Key Takeaways:</h2>
+            <div class="notification is-warning">
+                <h2 class="subtitle"><strong>Key Takeaways:</strong></h2>
                 <ul>
                     <li>3D printing could significantly benefit the <a href="https://apps.bea.gov/iTable/?reqid=150&step=2&isuri=1&categories=ugdpxind#eyJhcHBpZCI6MTUwLCJzdGVwcyI6WzEsMiwzXSwiZGF0YSI6W1siY2F0ZWdvcmllcyIsIkdkcHhJbmQiXSxbIlRhYmxlX0xpc3QiLCIyMzciXV19"> $31.2 billion ship building and repair industry</a> by streamlining processes and reducing costs.</li>
                     <li>A single instance of 3D printing prevented $400,000 in repair costs and expedited a repair process from a potential year to just five days at sea.</li>
@@ -68,7 +72,7 @@
                 <h2 class="subtitle">Labor Concerns</h2>
                 <img src="Slight annual increase in total employment in ship and boat building since 2020.png">
                 <p>While additive manufacturing has witnessed rising adoption, both within and outside the U.S. Navy, establishing significant labor trends from available data might be premature. The principal anxiety regarding 3D printing, as with wider automation fears, pivots on job loss. However, existing data showcases a rise in both gross output and total employment within the industry since 2016 and 2020, respectively, according to the <a href="https://apps.bea.gov/iTable/?reqid=150&step=2&isuri=1&categories=ugdpxind#eyJhcHBpZCI6MTUwLCJzdGVwcyI6WzEsMiwzXSwiZGF0YSI6W1siY2F0ZWdvcmllcyIsIkdkcHhJbmQiXSxbIlRhYmxlX0xpc3QiLCIyMzciXV19"> U.S. Bureau of Economic Analysis (BEA)</a> and <a href="https://www.bls.gov/oes/current/naics4_336600.htm"> U.S. Bureau of Labor Statistics</a>.</p>
-                <img src="Gross output from shipbuilding and repair has trended up since 2016.png">
+                <img src="gross_bln_USD.png">
 
                 <!-- More content... -->
                 <p>A primary apprehension with 3D printing, mirroring broader automation worries, is job loss. Yet current data shows gross output as well as total employment from the industry have both been increasing since 2016 and 2020 respectively, according to data from the U.S. Bureau of Economic Analysis (BEA) and U.S. Bureau of Labor Statistics.</p>
@@ -82,22 +86,25 @@
             
             </div>
 
-            <p><strong>References:</strong></p>
-            <p>
-                Justin Katz, “How the Navy’s chief engineer sees 3D printing rebuilding the fleet,” Breaking Defence, August 10, 2023. <a href="https://breakingdefense.com/2023/08/exclusive-how-the-navys-chief-engineer-sees-3d-printing-rebuilding-the-fleet/" target="_blank" rel="noopener">Accessed on August 10, 2023</a>.<br>
-                Oliver Johnson, “HII receives certification from NAVSEA to 3D print parts for naval vessels,” TCT Magazine, March 8, 2023. <a href="https://www.tctmagazine.com/additive-manufacturing-3d-printing-news/latest-additive-manufacturing-3d-printing-news/hii-receives-certification-from-navsea-to-3d-print-parts-for-naval-vessels/#:~:text=In%202018%2C%20NAVSEA%20approved%20the,and%20publishing%20of%20the%20results" target="_blank" rel="noopener">Accessed on August 10, 2023</a>.
-            </p>
 
-            <p><strong>Sources:</strong></p>
-            <p>Gross output data from <a href="https://apps.bea.gov/iTable/?reqid=150&step=2&isuri=1&categories=ugdpxind#eyJhcHBpZCI6MTUwLCJzdGVwcyI6WzEsMiwzXSwiZGF0YSI6W1siY2F0ZWdvcmllcyIsIkdkcHhJbmQiXSxbIlRhYmxlX0xpc3QiLCIyMzciXV19">U.S. Bureau of Economic Analysis (BEA)</a></p>
-            <p>TEU data from <a href="https://explore.dot.gov/views/MonthlyContainerPortTEUs/TEUs?%3Aembed=y&%3AisGuestRedirectFromVizportal=y">Department of Transportation</a></p>
-            <p>Labor data from <a href="https://www.bls.gov/oes/current/naics4_336600.htm">U.S. Bureau of Labor Statistics</a></p>
-            <p>US Navy ships volume data from <a href="https://www.secnav.navy.mil/fmc/fmb/Documents/24pres/Budget_Highlights_Book.pdf">US Navy</a></p>
-            <p>GIS data from <a href="https://www.naturalearthdata.com/downloads/">Natural Earth</a></p>
-            
 
 
             <footer class="footer">
+                <div class="content">
+                    <p><strong>References:</strong></p>
+                    <p>
+                        Justin Katz, <a href="https://breakingdefense.com/2023/08/exclusive-how-the-navys-chief-engineer-sees-3d-printing-rebuilding-the-fleet/" target="_blank" rel="noopener">“How the Navy’s chief engineer sees 3D printing rebuilding the fleet,”</a> Breaking Defence, August 10, 2023. Accessed on August 10, 2023.<br>
+                        Oliver Johnson, <a href="https://www.tctmagazine.com/additive-manufacturing-3d-printing-news/latest-additive-manufacturing-3d-printing-news/hii-receives-certification-from-navsea-to-3d-print-parts-for-naval-vessels/#:~:text=In%202018%2C%20NAVSEA%20approved%20the,and%20publishing%20of%20the%20results" target="_blank" rel="noopener">“HII receives certification from NAVSEA to 3D print parts for naval vessels,”</a> TCT Magazine, March 8, 2023. Accessed on August 10, 2023.
+                    </p>
+        
+                    <p><strong>Sources:</strong></p>
+                    <p>Gross output data from <a href="https://apps.bea.gov/iTable/?reqid=150&step=2&isuri=1&categories=ugdpxind#eyJhcHBpZCI6MTUwLCJzdGVwcyI6WzEsMiwzXSwiZGF0YSI6W1siY2F0ZWdvcmllcyIsIkdkcHhJbmQiXSxbIlRhYmxlX0xpc3QiLCIyMzciXV19">U.S. Bureau of Economic Analysis (BEA)</a></p>
+                    <p>TEU data from <a href="https://explore.dot.gov/views/MonthlyContainerPortTEUs/TEUs?%3Aembed=y&%3AisGuestRedirectFromVizportal=y">Department of Transportation</a></p>
+                    <p>Labor data from <a href="https://www.bls.gov/oes/current/naics4_336600.htm">U.S. Bureau of Labor Statistics</a></p>
+                    <p>US Navy ships volume data from <a href="https://www.secnav.navy.mil/fmc/fmb/Documents/24pres/Budget_Highlights_Book.pdf">US Navy</a></p>
+                    <p>GIS data from <a href="https://www.naturalearthdata.com/downloads/">Natural Earth</a></p>
+                    
+                </div>
                 <div class="content has-text-centered">
                     <p><strong><a href="https://github.com/ivynyayieka/ship_3d#readme">Methodology here for reference</a></strong></p>
                 <!-- Methodology Content... -->
