@@ -17,8 +17,8 @@ Sources:
 
 Per instructions, I made the charts in Microsoft Excel. Plotting revealed increases in terms of both total production and total employment in the industry since 2016 and 2020 respectively. 
 
-![gross output](/Gross%20output%20from%20shipbuilding%20and%20repair%20has%20trended%20up%20since%202016.png)
-![employment](/Slight%20annual%20increase%20in%20total%20employment%20in%20ship%20and%20boat%20building%20since%202020.png)
+![gross output](gross_bln_USD.png)
+![employment](labour_pic.png)
 
 #### Mapping the ports
 I mapped the major ports highlighted by the [Department of Transportation](https://explore.dot.gov/views/MonthlyContainerPortTEUs/TEUs?%3Aembed=y&%3AisGuestRedirectFromVizportal=y) using QGIS. <br/>
