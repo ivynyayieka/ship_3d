@@ -1,4 +1,4 @@
-# 3D printing will reduce cost and time necessary for ship repair but impact on labour force is complex
+# [3D printing will reduce cost and time necessary for ship repair but impact on labour force is complex](https://ivynyayieka.github.io/ship_3d/)
 
 This is an analysis in which I explore trends in the shipbuilding and repair industry as 3D printing takes root. <br/>
 
